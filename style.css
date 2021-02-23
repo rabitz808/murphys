@@ -1,0 +1,31 @@
+.ui.borderless.topmenu.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+}
+
+.grad-background {
+  background: url('http://courses.ics.hawaii.edu/ics314f20/morea/ui-frameworks/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.grey-background {
+  background-color: lightgray;
+  height: 500px;
+}
+
+.white-background {
+  background-color: whitesmoke;
+  height: 500px;
+}
+
+.black-background {
+  background-color: black;
+  color: whitesmoke;
+  height: 500px;
+}
+
+.colorblocktop {
+  padding-top: 20px;
+}
